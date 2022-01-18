@@ -1,0 +1,16 @@
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\TaskRaft.exe
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\TaskRaft.deps.json
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\TaskRaft.runtimeconfig.json
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\TaskRaft.runtimeconfig.dev.json
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\TaskRaft.dll
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\ref\TaskRaft.dll
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\bin\Debug\net5.0\TaskRaft.pdb
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.csproj.AssemblyReference.cache
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.AssemblyInfoInputs.cache
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.AssemblyInfo.cs
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.csproj.CoreCompileInputs.cache
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.dll
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\ref\TaskRaft.dll
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.pdb
+C:\Users\velizar.stoyanov\source\repos\TaskRaft\TaskRaft\obj\Debug\net5.0\TaskRaft.genruntimeconfig.cache
